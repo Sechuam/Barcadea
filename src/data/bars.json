@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Bar Los Dardos",
+    "lat": 37.3910,
+    "lng": -5.9900,
+    "location": "Triana",
+    "games": ["Dardos", "Billar"],
+    "rating": 4.6,
+    "reviews": [{ "user": "Pepe", "text": "¡Ambiente increíble en Triana!", "rating": 5 }],
+    "events": ["Torneo de dardos - 27/04"],
+    "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b"
+  },
+  {
+    "id": 2,
+    "name": "El Futbolín de Nervión",
+    "lat": 37.3850,
+    "lng": -5.9700,
+    "location": "Nervión",
+    "games": ["Futbolín", "Juegos de mesa"],
+    "rating": 4.2,
+    "reviews": [{ "user": "Lucía", "text": "Buen rollo y juegos variados", "rating": 4 }],
+    "events": ["Noche de trivial - 28/04"],
+    "image": "https://images.unsplash.com/photo-1577906096429-f73c2c312435"
+  },
+  {
+    "id": 3,
+    "name": "Arcade Alameda",
+    "lat": 37.3980,
+    "lng": -5.9850,
+    "location": "Alameda",
+    "games": ["Recreativas"],
+    "rating": 4.8,
+    "reviews": [],
+    "events": ["Retro gaming night - 29/04"],
+    "image": "https://images.unsplash.com/photo-1534422298391-e4f4d25617db"
+  }
+]

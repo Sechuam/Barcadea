@@ -1,0 +1,5 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 10H30V30H10V10Z" fill="#ea580c"/>
+  <path d="M20 15L25 20L20 25L15 20L20 15Z" fill="#fef3c7"/>
+  <text x="40" y="25" font-family="Poppins, sans-serif" font-size="20" font-weight="bold" fill="#1e3a8a">BarPlay</text>
+</svg>
